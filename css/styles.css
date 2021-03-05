@@ -1,0 +1,92 @@
+.heading{
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 900;
+    margin-top: 0;
+    color: #7868e6;
+    font-size: 4rem;
+}
+/* top container */
+.top-container{
+    background-color: #8ac4d0;
+    
+    background-image: url('https://thumbs.dreamstime.com/b/happy-family-mother-father-children-son-daughter-sunset-nature-150794881.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.head-para{
+    font-family: "Akaya+Telivigala";
+    font-weight: 400;
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.download{
+    font-family: "Montserrat";
+    font-weight: 900;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 1.5rem;
+    color: #fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+    font-family: "Montserrat";
+    
+}
+
+.buttns{
+    text-align: center;
+}
+
+/* middle container */
+
+.head-two{
+    font-family: "Montserrat";
+    text-align: center;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.row{
+    padding-top: 40px;
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card-one{
+    font-family: "Montserrat";
+    font-weight: 900;
+}
+
+.pricing-text{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+/* bottom container */
+.bottom-container{
+    margin-top: 50px;
+    background-color: #ffe3fe;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+
+.follow{
+    font-family: "Montserrat";
+    font-weight: 800;
+}
+
